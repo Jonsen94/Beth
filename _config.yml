@@ -1,0 +1,19 @@
+title: Beth traveling blog
+description:
+
+# Site settings
+baseurl: "/beth" # the subpath of your site, e.g. /blog
+url: "https://jonsen94.github.io" # the base hostname & protocol for your site
+basename: "beth"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
+
+#Show future posts
+future: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
