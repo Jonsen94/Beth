@@ -40,7 +40,7 @@ On the first day of your solo adventure, you traveled to Hamburg by first class 
     "Don't stop believing, hold on to that feeling" - Don't Stop Believin, Journey
   </blockquote>
 </div>
- by Journey.
+
 
 ## Song of the day
 _Here Comes The Sun - The Beatles_
