@@ -28,4 +28,5 @@ To capture the tone of this day, a fitting song quote might be "Don't stop belie
 
 ## Song of the day
 _Here Comes The Sun - The Beatles_
+
 Listen to it on [spotify](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=7229df9efacb4f30)
