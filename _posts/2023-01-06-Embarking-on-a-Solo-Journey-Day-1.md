@@ -5,9 +5,16 @@ date: 2023-01-6
 author: Beth, Joni
 tags: germany,day 1,hamburg,paderborn
 ---
-## The trip
-Setting Off on a Solo Adventure
-As the famous travel writer Pico Iyer once said, "We travel, initially, to lose ourselves; and we travel, next, to find ourselves." And that's exactly what I hope to do on this solo travel journey. Today marks the beginning of my adventure, and I couldn't be more excited to see what the world has in store for me.
+## Setting Off on a Solo Adventure
+As the famous travel writer Pico Iyer once said, "We travel, initially, to lose ourselves; and we travel, next, to find ourselves." 
+
+<div style="text-align: center;">
+  <blockquote style="font-style: italic;">
+    "Your quote goes here."
+  </blockquote>
+</div>
+
+And that's exactly what I hope to do on this solo travel journey. Today marks the beginning of my adventure, and I couldn't be more excited to see what the world has in store for me.
 
 I set out from Paderborn, bound for Hamburg. My flight to Boston wasn't until the following day, so I decided to spend the night in Hamburg to alleviate some of the stress of travel day.
 
