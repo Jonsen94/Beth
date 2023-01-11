@@ -9,23 +9,25 @@ tags: usa,day 4,boston
 
 <div style="text-align: center;">
   <blockquote style="font-style: italic;">
-    "Take a guided tour of Fenway Park, home of the Boston Red Sox
-Visit the Isabella Stewart Gardner Museum, a museum featuring art, architecture, and gardens
-Grab dinner at a restaurant in the North End, Boston's Little Italy" - Beth
+    "Visit the New England Aquarium
+Walk along the harbor and check out the seals at the Central Wharf
+Head to Cambridge and visit the Massachusetts Institute of Technology (MIT) campus" - Beth
   </blockquote>
 </div>
 <br/>
 
-- [ ] ~~Take a guided tour of Fenway Park~~ (needs to be booked)
-- [ ] ~~Visit the Isabella Stewart Gardner Museum~~ (still hand planned day)
-- [X] Grab dinner in the North End (already done yesterday)
-
-## Using Beth with some problems
-- Same problems as yesterday: still no internet connection
-- did parts of the freedom trail as planned earlier
-- probably changing the way of how to use beth: instead of preplanning everything just getting input
+- [ ] ~~Visit the New England Aquarium~~ (still enough todo with the freedom trail)
+- [ ] ~~Walk along the harbor and check out the seals at the Central Wharf~~ (see above)
+- [X] Head to Cambridge and visit the Massachusetts Institute of Technology (MIT) campus (yes, but without a tour)
 
 ## What happened
+- More strolling around
+- found a diner and had breakfast there
+- Visiting Boston commons and other parks
+- Following the first part of the freedom trail with an audio guide
+- short break, talking with friends from germany
+- another long walk around Harvard and MIT
+- Strolling around in the dark
 
 ## Summary
 
