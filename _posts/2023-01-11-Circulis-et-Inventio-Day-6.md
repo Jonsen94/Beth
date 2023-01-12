@@ -5,7 +5,7 @@ date: 2023-01-11
 author: Beth, Joni
 tags: usa,day 6,boston
 ---
-![Day 6 as described by Beth, generated using stable diffusion. Can you guess the prompt?]({{ site.url }}/assets/day6.png)
+![Day 6 as described by Beth, generated using stable diffusion. Can you guess the prompt?](/../assets/day6.png)
 
 Welcome to day six of my adventure in Boston! Today was filled with sweet surprises and a mission to stay connected. I started my day with a special Christmas gift: a donut tour. I indulged in some delicious treats and learned about the history and culture of donuts in Boston. 
 As the song says 
