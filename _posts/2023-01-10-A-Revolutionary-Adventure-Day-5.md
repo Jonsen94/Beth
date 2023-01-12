@@ -5,7 +5,7 @@ date: 2023-01-10
 author: Beth, Joni
 tags: usa,day 5,boston
 ---
-![Day 5 as described by beth, generated using stable diffusion. Can you guess the prompt?](/assets/day5.png)
+![Day 5 as described by Beth, generated using stable diffusion. Can you guess the prompt?]({{ site.url }}/assets/day5.png)
 
 ## What was planned
 
