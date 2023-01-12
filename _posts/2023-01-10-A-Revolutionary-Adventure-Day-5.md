@@ -22,7 +22,7 @@ As the evening approached, I had the pleasure of sharing a beer with a new frien
 
 I trust that all is well on your end and that our cause is progressing. I shall keep you informed of my observations and experiences here in the colonies.
 
-Yours truly,
+Yours truly,<br>
 Jonas
 
 ## Summary
